@@ -64,10 +64,10 @@ nav ul li a.active {
     border-radius: 999px;
 }
 #intro1{
-    background-image: url("../img/imagem\ toda\ turma.jpg");
+    background-image: url("../img/amizade.jpg");
 }
 #intro2{
-    background-image: url("../img/amigos\ para\ sempre.jpg");
+    background-image: url("../img/download.png");
 }
 main{
     background-color: rgba(0, 0, 0, 0.04);
